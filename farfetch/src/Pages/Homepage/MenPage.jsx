@@ -24,7 +24,7 @@ import Navbar from '../../Components/Navbar/Navbar';
 const MenPage = () => {
   return (
     <div>
-      <Navbar/>
+      <Navbar />
       <Stack spacing={'20px'} border="1px solid white" h="auto">
         <Flex spacing="10px">
           <Box ml="50px" h="700px" w="900px" mt="10px">
@@ -163,7 +163,7 @@ const MenPage = () => {
             <Image
               h="300px"
               w="100"
-              src="https://cdn-images.farfetch-contents.com/19/10/05/61/19100561_42312996_600.jpg"
+              src="https://cdn-images.farfetch-contents.com/19/30/34/91/19303491_42394849_1000.jpg"
               alt=""
             />
             <Text color={'gray'} ml="20px" mt="10px">
@@ -185,7 +185,7 @@ const MenPage = () => {
             <Image
               h="300px"
               w="100"
-              src="https://cdn-images.farfetch-contents.com/19/10/05/61/19100561_42312996_600.jpg"
+              src="https://cdn-images.farfetch-contents.com/17/19/83/17/17198317_34908021_1000.jpg"
               alt=""
             />
             <Text color={'gray'} ml="20px" mt="10px">
@@ -207,7 +207,7 @@ const MenPage = () => {
             <Image
               h="300px"
               w="100"
-              src="https://cdn-images.farfetch-contents.com/19/10/05/61/19100561_42312996_600.jpg"
+              src="https://cdn-images.farfetch-contents.com/19/08/45/25/19084525_42332023_1000.jpg"
               alt=""
             />
             <Text color={'gray'} ml="20px" mt="10px">
@@ -250,7 +250,7 @@ const MenPage = () => {
           <Box h="auto" w="400px" border={'2px solid white'}>
             <Image
               h="auto"
-              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3991024/data/7f859c5eaab84fa9bb83cb08dfedb11b/3x4_three-columns/480/data.jpeg"
+              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/4052052/data/e298d19a69bab1db35abc75874aeddbe/3x4_three-columns/480/data.jpeg"
               alt=""
             />
 
@@ -259,7 +259,7 @@ const MenPage = () => {
           <Box h="auto" w="400px" border={'2px solid white'}>
             <Image
               h="auto"
-              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3991024/data/7f859c5eaab84fa9bb83cb08dfedb11b/3x4_three-columns/480/data.jpeg"
+              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/4052018/data/f8dd60aa25869bc86bcd6408e669c3c5/3x4_three-columns/480/data.jpeg"
               alt=""
             />
 
@@ -317,17 +317,17 @@ const MenPage = () => {
             <Image
               h="300px"
               w="100"
-              src="https://cdn-images.farfetch-contents.com/19/10/05/61/19100561_42312996_600.jpg"
+              src="https://cdn-images.farfetch-contents.com/18/12/56/34/18125634_38542895_1000.jpg"
               alt=""
             />
             <Text color={'gray'} ml="20px" mt="10px">
               New Season
             </Text>
             <Text color={'black'} ml="20px" mt="10px" fontSize={'2xl'}>
-              Gucci
+              Lanvin
             </Text>
             <Text color={'black.300'} ml="20px" mt="10px">
-              GG-jacquard knitted
+              Curb lace-up sneakers
             </Text>
 
             <Text color={'black.200'} ml="20px" mt="10px">
@@ -339,21 +339,21 @@ const MenPage = () => {
             <Image
               h="300px"
               w="100"
-              src="https://cdn-images.farfetch-contents.com/19/10/05/61/19100561_42312996_600.jpg"
+              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3983222/data/0a2e90aa1c737c47ec2f0c64f8f53b66/3x4_three-columns/480/data.jpeg"
               alt=""
             />
             <Text color={'gray'} ml="20px" mt="10px">
               New Season
             </Text>
             <Text color={'black'} ml="20px" mt="10px" fontSize={'2xl'}>
-              Gucci
+              Dino Lee
             </Text>
             <Text color={'black.300'} ml="20px" mt="10px">
-              GG-jacquard knitted
+              Jersey Rib corset T-shirt
             </Text>
 
             <Text color={'black.200'} ml="20px" mt="10px">
-              $920
+              $900
             </Text>
           </Box>
           <Box h="500px" w="400px" border="1px solid black">
@@ -361,21 +361,21 @@ const MenPage = () => {
             <Image
               h="300px"
               w="100"
-              src="https://cdn-images.farfetch-contents.com/19/10/05/61/19100561_42312996_600.jpg"
+              src="https://cdn-images.farfetch-contents.com/16/73/15/68/16731568_33244045_1000.jpg"
               alt=""
             />
             <Text color={'gray'} ml="20px" mt="10px">
               New Season
             </Text>
             <Text color={'black'} ml="20px" mt="10px" fontSize={'2xl'}>
-              Gucci
+              Monse
             </Text>
             <Text color={'black.300'} ml="20px" mt="10px">
-              GG-jacquard knitted
+              logo-trim cut-out leggings
             </Text>
 
             <Text color={'black.200'} ml="20px" mt="10px">
-              $920
+              $554
             </Text>
           </Box>
         </Flex>
@@ -395,29 +395,29 @@ const MenPage = () => {
           <Box h="auto" w="400px" border={'2px solid black'}>
             <Image
               h="auto"
-              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3991024/data/7f859c5eaab84fa9bb83cb08dfedb11b/3x4_three-columns/480/data.jpeg"
+              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3991066/data/614940ffe87c837d3c6205c092120b55/3x4_three-columns/480/data.jpeg"
               alt=""
             />
 
-            <Text fontSize={'2xl'}>HIGH-GLAMOUR GIFTS</Text>
+            <Text fontSize={'2xl'}>HOMEWARE TO LOVE</Text>
           </Box>
           <Box h="auto" w="400px" border={'2px solid black'}>
             <Image
               h="auto"
-              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3991024/data/7f859c5eaab84fa9bb83cb08dfedb11b/3x4_three-columns/480/data.jpeg"
+              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3991112/data/912c9acde53cb60e750c36cd8cadd037/3x4_three-columns/480/data.jpeg"
               alt=""
             />
 
-            <Text fontSize={'2xl'}>HIGH-GLAMOUR GIFTS</Text>
+            <Text fontSize={'2xl'}>MODERN-FEMININITY GIFTS</Text>
           </Box>
           <Box h="auto" w="400px" border={'2px solid black'}>
             <Image
               h="auto"
-              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3991024/data/7f859c5eaab84fa9bb83cb08dfedb11b/3x4_three-columns/480/data.jpeg"
+              src="https://cdn-static.farfetch-contents.com/cms-cm10/caas/v1/media/3983222/data/0a2e90aa1c737c47ec2f0c64f8f53b66/3x4_three-columns/480/data.jpeg"
               alt=""
             />
 
-            <Text fontSize={'2xl'}>HIGH-GLAMOUR GIFTS</Text>
+            <Text fontSize={'2xl'}>MOST-WANTED GIFTS</Text>
           </Box>
         </Flex>
       </Stack>
