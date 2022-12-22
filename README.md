@@ -8,6 +8,8 @@ This was a collaborative project made by 4 members Executed in 4 days.
 3) Masum Raja
 4)  Ashutosh Raj
 
+### Our Project is not  connected with database or backend server just UI project.We Build our own data and useing Json-server for geting all Opration.
+----
 
   Deploy Link -Netlify: https://farfetch-8hthowlmt-masum-raja.vercel.app/
 ---
